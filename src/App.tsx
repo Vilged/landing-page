@@ -1,5 +1,5 @@
 import "./App.css";
-import backgroundImage from "./assets/hintergrundBild.jpg";
+import backgroundImage from "./assets/background.jpg";
 
 function App() {
   return (
